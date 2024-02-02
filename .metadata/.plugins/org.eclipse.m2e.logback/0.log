@@ -401,3 +401,42 @@
 2024-02-03 04:56:06,578 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-02-03 04:56:06,583 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-02-03 04:56:06,585 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-02-03 05:02:26,370 [Worker-75: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-02-03 05:02:28,036 [Worker-75: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:SchoolManagementSystem:0.0.1-SNAPSHOT @ C:\Users\SohamPatra\eclipse-workspace\student-school-api\school-management-system\pom.xml.
+2024-02-03 05:02:32,211 [Worker-75: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /school-management-system/src/main/java
+2024-02-03 05:02:32,212 [Worker-75: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /school-management-system/src/main/resources
+2024-02-03 05:02:32,212 [Worker-75: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /school-management-system/src/main/resources
+2024-02-03 05:02:32,212 [Worker-75: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /school-management-system/src/test/java
+2024-02-03 05:02:32,212 [Worker-75: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /school-management-system/src/test/resources
+2024-02-03 05:02:32,879 [Worker-75: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 5.00 sec, update config takes 0.00 sec 
+2024-02-03 05:02:33,870 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-03 05:02:33,885 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-03 05:02:33,888 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-02-03 05:03:08,615 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:student-management-app:0.0.1-SNAPSHOT @ C:\Users\SohamPatra\eclipse-workspace\student-school-api\student-management-app\pom.xml.
+2024-02-03 05:03:10,000 [Worker-81: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /student-management-app/src/main/java
+2024-02-03 05:03:10,000 [Worker-81: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /student-management-app/src/main/resources
+2024-02-03 05:03:10,016 [Worker-81: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /student-management-app/src/main/resources
+2024-02-03 05:03:10,032 [Worker-81: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /student-management-app/src/test/java
+2024-02-03 05:03:10,032 [Worker-81: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /student-management-app/src/test/resources
+2024-02-03 05:03:13,416 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2024-02-03 05:03:13,418 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-02-03 05:03:13,704 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:student-management-app:0.0.1-SNAPSHOT @ C:\Users\SohamPatra\eclipse-workspace\student-school-api\student-management-app\pom.xml.
+2024-02-03 05:03:14,330 [Worker-81: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /student-management-app/src/main/java
+2024-02-03 05:03:14,330 [Worker-81: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /student-management-app/src/main/resources
+2024-02-03 05:03:14,331 [Worker-81: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /student-management-app/src/main/resources
+2024-02-03 05:03:14,331 [Worker-81: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /student-management-app/src/test/java
+2024-02-03 05:03:14,331 [Worker-81: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /student-management-app/src/test/resources
+2024-02-03 05:03:15,063 [Worker-81: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-02-03 05:03:15,589 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-03 05:03:15,604 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-03 05:03:15,607 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-02-03 05:03:54,253 [Worker-89: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:student-management-app:0.0.1-SNAPSHOT @ C:\Users\SohamPatra\eclipse-workspace\student-school-api\student-management-app\pom.xml.
+2024-02-03 05:03:55,046 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-03 05:03:55,046 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-03 05:03:55,049 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-02-03 05:14:50,387 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-03 05:14:50,399 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-03 05:14:50,402 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-02-03 05:22:39,766 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-02-03 05:22:39,771 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-03 05:22:39,774 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
