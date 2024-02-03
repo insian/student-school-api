@@ -27,11 +27,11 @@
    <libraries>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-spring-webmvc-6.1.3.jar/meta-inf/spring-form.tld" project="api-gateway"/>
+      path="FileSystems/lib-spring-webmvc-6.1.3.jar/meta-inf/spring-form.tld" project="student-management-app"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-spring-webmvc-6.1.3.jar/meta-inf/spring.tld" project="api-gateway"/>
+      path="FileSystems/lib-spring-webmvc-6.1.3.jar/meta-inf/spring.tld" project="student-management-app"/>
     </library>
    </libraries>
   </path>
