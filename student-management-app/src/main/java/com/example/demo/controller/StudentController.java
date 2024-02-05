@@ -58,7 +58,4 @@ public class StudentController {
 	public void delete(@PathVariable int studentId) throws StudentNotFoundException{
 		studentService.delete(studentId);
 	}
-	
-	
-	
 }

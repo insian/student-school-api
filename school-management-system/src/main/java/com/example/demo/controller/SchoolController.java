@@ -44,7 +44,6 @@ public class SchoolController {
 		return response;
 	}
 	
-	
 	@GetMapping
 	public ResponseEntity<?> listSchools(){
 		return ResponseEntity.status(HttpStatus.OK).body(schoolService.getAllSchools());
